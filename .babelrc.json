@@ -21,6 +21,7 @@
           "@": "./src"
         }
       }
-    ]
+    ],
+    ["import", { "libraryName": "antd", "style": true }]
   ]
 }
