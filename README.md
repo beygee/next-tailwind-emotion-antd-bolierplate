@@ -36,7 +36,7 @@ Open http://localhost:3000 with your browser to see the result.
 #### Core Library
 
 - ![](https://img.shields.io/badge/react-17.0.2-blue)
-- ![](https://img.shields.io/badge/next-11.0.1-blue)
+- ![](https://img.shields.io/badge/next-11.1.0-blue)
 - ![](https://img.shields.io/badge/@emotion/react-11.4.0-blue)
 - ![](https://img.shields.io/badge/tailwindcss-2.2.4-blue)
 - ![](https://img.shields.io/badge/twin.mactro-2.6.2-blue)
@@ -51,9 +51,6 @@ Open http://localhost:3000 with your browser to see the result.
 - ![](https://img.shields.io/badge/lodash-4.17.21-blue)
 - ![](https://img.shields.io/badge/react--query-3.18.1-blue)
 
-
 ## Author
 
-* [**Beygee**](https://www.github.com/beygee) [![GitHub followers](https://img.shields.io/github/followers/beygee.svg?style=social)](https://github.com/beygee)
-
-
+- [**Beygee**](https://www.github.com/beygee) [![GitHub followers](https://img.shields.io/github/followers/beygee.svg?style=social)](https://github.com/beygee)
